@@ -8,3 +8,4 @@ Reference:
 Athanasios Tsanas, Max A. Little, Patrick E. McSharry, Lorraine O. Ramig (2009) <br>
 'Accurate telemonitoring of Parkinson’s disease progression by non-invasive speech tests' <br>
 [IEEE](https://ieeexplore.ieee.org/document/5339170) Transactions on Biomedical Engineering
+Direct paper link [here](https://www.nature.com/articles/npre.2009.3920.1.pdf)
